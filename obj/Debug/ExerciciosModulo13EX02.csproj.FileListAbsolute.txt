@@ -1,0 +1,8 @@
+C:\Users\gnogu\Documents\Cursos\Fundamentos de C# - SOFTBLUE\Exercicios\ExerciciosModulo13\ExerciciosModulo13EX02\bin\Debug\ExerciciosModulo13EX02.exe.config
+C:\Users\gnogu\Documents\Cursos\Fundamentos de C# - SOFTBLUE\Exercicios\ExerciciosModulo13\ExerciciosModulo13EX02\bin\Debug\ExerciciosModulo13EX02.exe
+C:\Users\gnogu\Documents\Cursos\Fundamentos de C# - SOFTBLUE\Exercicios\ExerciciosModulo13\ExerciciosModulo13EX02\bin\Debug\ExerciciosModulo13EX02.pdb
+C:\Users\gnogu\Documents\Cursos\Fundamentos de C# - SOFTBLUE\Exercicios\ExerciciosModulo13\ExerciciosModulo13EX02\obj\Debug\ExerciciosModulo13EX02.csproj.AssemblyReference.cache
+C:\Users\gnogu\Documents\Cursos\Fundamentos de C# - SOFTBLUE\Exercicios\ExerciciosModulo13\ExerciciosModulo13EX02\obj\Debug\ExerciciosModulo13EX02.csproj.SuggestedBindingRedirects.cache
+C:\Users\gnogu\Documents\Cursos\Fundamentos de C# - SOFTBLUE\Exercicios\ExerciciosModulo13\ExerciciosModulo13EX02\obj\Debug\ExerciciosModulo13EX02.csproj.CoreCompileInputs.cache
+C:\Users\gnogu\Documents\Cursos\Fundamentos de C# - SOFTBLUE\Exercicios\ExerciciosModulo13\ExerciciosModulo13EX02\obj\Debug\ExerciciosModulo13EX02.exe
+C:\Users\gnogu\Documents\Cursos\Fundamentos de C# - SOFTBLUE\Exercicios\ExerciciosModulo13\ExerciciosModulo13EX02\obj\Debug\ExerciciosModulo13EX02.pdb
